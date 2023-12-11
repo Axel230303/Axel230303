@@ -5,7 +5,7 @@ avec une expérience en BUT Informatique .Tous mes contacts sont donc présents 
 
 ## À propos de moi
 
-- 🌍 Basé à Limoges ainsi qu'à mmSaint-Vaury en France
+- 🌍 Basé à Limoges ainsi qu'à Saint-Vaury en France
 - 💼 Etudiant de deuxième année de BUT Informatique
 - 🎓 BUT Informatique et BAC mention assez bien spécialité NSI et Mathématiques
 - 🚀 Actuellement travaillant sur différents projets dans mes études tel que le développment d'un jeu vidéo en Unity/C# ou bien le développement d'un réseau privé
@@ -33,7 +33,7 @@ Description concise du projet 2.
 ## Contact
 
 - 📧 Email : [Votre email]
-- 💼 LinkedIn : [Profil LinkedIn]
+- 💼 LinkedIn : ![Axel Pignol](https://www.linkedin.com/in/axel-pignol-6b27042a4/)
 - 🐦 Twitter : [Profil Twitter]
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou question. Merci de votre visite !
