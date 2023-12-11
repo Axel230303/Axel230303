@@ -33,7 +33,7 @@ Description concise du projet 2.
 ## Contact
 
 - 📧 Email : [Votre email]
-- 💼 LinkedIn : ![Axel Pignol](https://www.linkedin.com/in/axel-pignol-6b27042a4/)
+- 💼 LinkedIn : Axel Pignol(https://www.linkedin.com/in/axel-pignol-6b27042a4/)
 - 🐦 Twitter : [Profil Twitter]
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou question. Merci de votre visite !
