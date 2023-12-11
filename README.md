@@ -14,9 +14,10 @@ avec une expérience en BUT Informatique .Tous mes contacts sont donc présents 
 
 ## Projets
 
-### [Jeu du Verger en Java]
+### Jeu du Verger en Java
 <img src="https://github.com/Axel230303/Image/blob/main/Leverger.png" width="200">
-Description concise du projet 1.
+
+Développement d'une application en JAVA et JAVAFX du jeu du Verger avec différentes fonctionnalités tel qu'une fonctionnalité de dé qui renvoi une couleur d'un fruit qui devra être enlevé si un corbeau est tiré alors au bout de neufs pièces le joueur aura donc perdu.
 
 ![Capture d'écran du Projet 1](lien_vers_capture_d_ecran_1)
 
