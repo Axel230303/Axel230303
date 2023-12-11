@@ -14,7 +14,7 @@ avec une expérience en BUT Informatique .Tous mes contacts sont donc présents 
 
 ## Projets
 
-### [Nom du Projet 1](lien_vers_le_projet_1)
+### [Jeu du Verger en Java](lien_vers_le_projet_1)
 Description concise du projet 1.
 
 ![Capture d'écran du Projet 1](lien_vers_capture_d_ecran_1)
