@@ -21,18 +21,21 @@ Développement d'une application en JAVA et JAVAFX du jeu du Verger avec différ
 Cela a donc été implémenté lors de 
 
 ### Escape Game sur l'histoire de l'informatique (Unity/C#)
-<img src="https://github.com/Axel230303/Image/blob/main/Unity.png" width="200">
 <img src="https://github.com/Axel230303/Image/blob/main/Unity2.png" width="200">
+<img src="https://github.com/Axel230303/Image/blob/main/Unity.png" width="200">
 
-Mis en place d'un Escape Game avec l'utilisation de Unity et donc du langage C# sur l'histoire de l'informatique et les personnalités ayant aidées à l'évolution de l'informatique pour les Journées Portes Ouvertes de l'IUT du Limousin (Limoges) 
-![Capture d'écran du Projet 2](lien_vers_capture_d_ecran_2)
-
-...
+Mis en place d'un Escape Game avec l'utilisation de Unity et donc du langage C# sur l'histoire de l'informatique et les personnalités ayant aidées à l'évolution de l'informatique pour les Journées Portes Ouvertes de l'IUT du Limousin (Limoges) et donc en priorité pour notre cas des Journées Portes Ouvertes du département Informatique.
+ 
 
 ## Compétences
 
 ### Langages de programmation : 
-- Python 
+- <img src="https://github.com/Axel230303/Image/blob/main/Python.jpg" width="100">Python
+- <img src="https://github.com/Axel230303/Image/blob/main/SQL.png" width="100">SQL
+- <img src="https://github.com/Axel230303/Image/blob/main/CC++.png" width="100">C et C++
+- <img src="https://github.com/Axel230303/Image/blob/main/java.png" width="100">JAVA
+- <img src="https://github.com/Axel230303/Image/blob/main/JS.png" width="100">JavaScript
+- <img src="https://github.com/Axel230303/Image/blob/main/htmlcss.jpg" width="100">HTML et CSS
 ### Technologies : [Liste des technologies, p. ex., React, Node.js, MongoDB]
 ### Outils : [Liste des outils, p. ex., Git, VS Code, Docker]
 
