@@ -38,12 +38,12 @@ Mis en place d'un Escape Game avec l'utilisation de Unity et donc du langage C# 
 - <img src="https://github.com/Axel230303/Image/blob/main/htmlcss.jpg" width="75"> HTML et CSS
 
 ### Outils : [Liste des outils, p. ex., Git, VS Code, Docker]
-- <img src="https://github.com/Axel230303/Image/blob/main/github.png" width="75"> Github
-- <img src="https://github.com/Axel230303/Image/blob/main/vscode.jpg" width="75"> VSCode
-- <img src="https://github.com/Axel230303/Image/blob/main/eclipse.jpg" width="75"> Eclipse
-- <img src="https://github.com/Axel230303/Image/blob/main/intellij.jpg" width="75"> Intellij
-- <img src="https://github.com/Axel230303/Image/blob/main/android.png" width="75"> Android Studio
-- <img src="https://github.com/Axel230303/Image/blob/main/unitylogo.png" width="75"> Unity
+- <img src="https://github.com/Axel230303/Image/blob/main/github.png" width="25"> Github
+- <img src="https://github.com/Axel230303/Image/blob/main/vscode.jpg" width="25"> VSCode
+- <img src="https://github.com/Axel230303/Image/blob/main/eclipse.jpg" width="25"> Eclipse
+- <img src="https://github.com/Axel230303/Image/blob/main/intellij.jpg" width="25"> Intellij
+- <img src="https://github.com/Axel230303/Image/blob/main/android.png" width="25"> Android Studio
+- <img src="https://github.com/Axel230303/Image/blob/main/unitylogo.png" width="25"> Unity
 
 ## Contact
 
