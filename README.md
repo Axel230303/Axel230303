@@ -1,3 +1,5 @@
+![Bannière de Github](URL_DE_VOTRE_BANNIERE)
+
 # Pignol Axel - Portfolio
 
 Bienvenue sur mon portfolio GitHub ! Je suis Axel Pignol, un passionné de développement de logiciels et particulièrement de développement d'applications (mobiles et autre) 
