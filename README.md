@@ -30,12 +30,12 @@ Mis en place d'un Escape Game avec l'utilisation de Unity et donc du langage C# 
 ## Compétences
 
 ### Langages de programmation : 
-- <img src="https://github.com/Axel230303/Image/blob/main/Python.jpg" width="50"> Python
-- <img src="https://github.com/Axel230303/Image/blob/main/sql.png" width="75"> SQL
-- <img src="https://github.com/Axel230303/Image/blob/main/CC++.png" width="75"> C et C++
-- <img src="https://github.com/Axel230303/Image/blob/main/java.png" width="35"> JAVA
-- <img src="https://github.com/Axel230303/Image/blob/main/JS.png" width="50"> JavaScript
-- <img src="https://github.com/Axel230303/Image/blob/main/htmlcss.jpg" width="75"> HTML et CSS
+- <img src="https://github.com/Axel230303/Image/blob/main/Python.jpg" width="25"> Python
+- <img src="https://github.com/Axel230303/Image/blob/main/sql.png" width="25"> SQL
+- <img src="https://github.com/Axel230303/Image/blob/main/CC++.png" width="25"> C et C++
+- <img src="https://github.com/Axel230303/Image/blob/main/java.png" width="25"> JAVA
+- <img src="https://github.com/Axel230303/Image/blob/main/JS.png" width="25"> JavaScript
+- <img src="https://github.com/Axel230303/Image/blob/main/htmlcss.jpg" width="25"> HTML et CSS
 
 ### Outils : [Liste des outils, p. ex., Git, VS Code, Docker]
 - <img src="https://github.com/Axel230303/Image/blob/main/github.png" width="25"> Github
