@@ -18,21 +18,23 @@ avec une expérience en BUT Informatique .Tous mes contacts sont donc présents 
 <img src="https://github.com/Axel230303/Image/blob/main/Leverger.png" width="200">
 
 Développement d'une application en JAVA et JAVAFX du jeu du Verger avec différentes fonctionnalités tel qu'une fonctionnalité de dé qui renvoi une couleur d'un fruit qui devra être enlevé si un corbeau est tiré alors au bout de neufs pièces le joueur aura donc perdu.
+Cela a donc été implémenté lors de 
 
-![Capture d'écran du Projet 1](lien_vers_capture_d_ecran_1)
+### Escape Game sur l'histoire de l'informatique (Unity/C#)
+<img src="https://github.com/Axel230303/Image/blob/main/Unity.png" width="200">
+<img src="https://github.com/Axel230303/Image/blob/main/Unity2.png" width="200">
 
-### [Nom du Projet 2](lien_vers_le_projet_2)
-Description concise du projet 2.
-
+Mis en place d'un Escape Game avec l'utilisation de Unity et donc du langage C# sur l'histoire de l'informatique et les personnalités ayant aidées à l'évolution de l'informatique pour les Journées Portes Ouvertes de l'IUT du Limousin (Limoges) 
 ![Capture d'écran du Projet 2](lien_vers_capture_d_ecran_2)
 
 ...
 
 ## Compétences
 
-- Langages de programmation : [Liste des langages, p. ex., JavaScript, Python, Java]
-- Technologies : [Liste des technologies, p. ex., React, Node.js, MongoDB]
-- Outils : [Liste des outils, p. ex., Git, VS Code, Docker]
+### Langages de programmation : 
+- Python 
+### Technologies : [Liste des technologies, p. ex., React, Node.js, MongoDB]
+### Outils : [Liste des outils, p. ex., Git, VS Code, Docker]
 
 ## Contact
 
