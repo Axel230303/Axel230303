@@ -36,9 +36,14 @@ Mis en place d'un Escape Game avec l'utilisation de Unity et donc du langage C# 
 - <img src="https://github.com/Axel230303/Image/blob/main/java.png" width="35"> JAVA
 - <img src="https://github.com/Axel230303/Image/blob/main/JS.png" width="50"> JavaScript
 - <img src="https://github.com/Axel230303/Image/blob/main/htmlcss.jpg" width="75"> HTML et CSS
-  
-### Technologies : [Liste des technologies, p. ex., React, Node.js, MongoDB]
+
 ### Outils : [Liste des outils, p. ex., Git, VS Code, Docker]
+- <img src="https://github.com/Axel230303/Image/blob/main/github.png" width="75"> Github
+- <img src="https://github.com/Axel230303/Image/blob/main/vscode.jpg" width="75"> VSCode
+- <img src="https://github.com/Axel230303/Image/blob/main/eclipse.jpg" width="75"> Eclipse
+- <img src="https://github.com/Axel230303/Image/blob/main/intellij.jpg" width="75"> Intellij
+- <img src="https://github.com/Axel230303/Image/blob/main/android.png" width="75"> Android Studio
+- <img src="https://github.com/Axel230303/Image/blob/main/unitylogo.png" width="75"> Unity
 
 ## Contact
 
