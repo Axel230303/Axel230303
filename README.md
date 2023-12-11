@@ -2,7 +2,7 @@
 
 # Pignol Axel - Portfolio
 
-Bienvenue sur mon portfolio GitHub ! Je m'appelle Axel Pignol, un passionné de développement de logiciels et particulièrement de développement d'applications (mobiles et autre) 
+Bienvenue sur mon portfolio ! Je m'appelle Axel Pignol, passionné de développement de logiciels et particulièrement de développement d'applications (mobiles et autre) 
 avec une expérience en BUT Informatique .Tous mes contacts sont donc présents et libres d'accès.
 
 ## À propos de moi
