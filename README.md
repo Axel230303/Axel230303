@@ -1,4 +1,4 @@
-![Bannière de Github](https://github.com/Axel230303/Image/blob/main/Axel%20Pignol.jpg)
+![Bannière](https://github.com/Axel230303/Image/blob/main/Axel%20Pignol.jpg)
 
 # Pignol Axel - Portfolio
 
