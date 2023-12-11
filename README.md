@@ -36,5 +36,4 @@ Description concise du projet 2.
 
 - 📧 Email : [axel.pignol@etu.unilim.fr or axel.pignol.pro@gmail.com]
 - 💼 LinkedIn : [Axel Pignol](https://www.linkedin.com/in/axel-pignol-6b27042a4/)
-- 📞 Numéro de Téléphone : +33780376984
 
