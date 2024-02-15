@@ -37,6 +37,6 @@ Mis en place d'un Escape Game avec l'utilisation de Unity et donc du langage C# 
 
 ## Contact
 
-- 📧 Email : [axel.pignol@etu.unilim.fr or axel.pignol.pro@gmail.com]
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="20"> Email : [axel.pignol@etu.unilim.fr or axel.pignol.pro@gmail.com]
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="20"> LinkedIn : [Axel Pignol](https://www.linkedin.com/in/axel-pignol-6b27042a4/)
 
