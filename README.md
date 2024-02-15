@@ -30,15 +30,10 @@ Mis en place d'un Escape Game avec l'utilisation de Unity et donc du langage C# 
 ## Compétences
 
 ### Langages de programmation : 
-- <img src="https://github.com/Axel230303/Image/blob/main/Python.jpg" width="25"> Python
-- <img src="https://github.com/Axel230303/Image/blob/main/sql.png" width="35"> SQL
-- <img src="https://github.com/Axel230303/Image/blob/main/CC++.png" width="35"> C et C++
-- <img src="https://github.com/Axel230303/Image/blob/main/java.png" width="35"> JAVA
-- <img src="https://github.com/Axel230303/Image/blob/main/JS.png" width="25"> JavaScript
-- <img src="https://github.com/Axel230303/Image/blob/main/htmlcss.jpg" width="25"> HTML et CSS
+<img src="https://github.com/Axel230303/Image/blob/main/Python.jpg" width="25"> <img src="https://github.com/Axel230303/Image/blob/main/sql.png" width="35"> <img src="https://github.com/Axel230303/Image/blob/main/CC++.png" width="35"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="32"> <img src="https://github.com/Axel230303/Image/blob/main/JS.png" width="25"> <img src="https://github.com/Axel230303/Image/blob/main/htmlcss.jpg" width="25"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="35">
 
 ### Outils : [Liste des outils, p. ex., Git, VS Code, Docker]
-- <<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="25"> Github
+- <img src="https://github.com/Axel230303/Image/blob/main/github.png" width="25"> Github
 - <img src="https://github.com/Axel230303/Image/blob/main/vscode.jpg" width="25"> VSCode
 - <img src="https://github.com/Axel230303/Image/blob/main/eclipse.jpg" width="25"> Eclipse
 - <img src="https://github.com/Axel230303/Image/blob/main/intellij.jpg" width="25"> Intellij
