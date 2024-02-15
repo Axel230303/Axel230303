@@ -38,7 +38,7 @@ Mis en place d'un Escape Game avec l'utilisation de Unity et donc du langage C# 
 - <img src="https://github.com/Axel230303/Image/blob/main/htmlcss.jpg" width="25"> HTML et CSS
 
 ### Outils : [Liste des outils, p. ex., Git, VS Code, Docker]
-- <img src="https://github.com/Axel230303/Image/blob/main/github.png" width="25"> Github
+- <<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="25"> Github
 - <img src="https://github.com/Axel230303/Image/blob/main/vscode.jpg" width="25"> VSCode
 - <img src="https://github.com/Axel230303/Image/blob/main/eclipse.jpg" width="25"> Eclipse
 - <img src="https://github.com/Axel230303/Image/blob/main/intellij.jpg" width="25"> Intellij
