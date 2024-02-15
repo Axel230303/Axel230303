@@ -30,7 +30,7 @@ Mis en place d'un Escape Game avec l'utilisation de Unity et donc du langage C# 
 ## Compétences
 
 ### Langages de programmation : 
-<img src="https://github.com/Axel230303/Image/blob/main/Python.jpg" width="25"> <img src="https://github.com/Axel230303/Image/blob/main/sql.png" width="35"> <img src="https://github.com/Axel230303/Image/blob/main/CC++.png" width="35"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="32"> <img src="https://github.com/Axel230303/Image/blob/main/JS.png" width="25"> <img src="https://github.com/Axel230303/Image/blob/main/htmlcss.jpg" width="25"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="35">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg " width="25"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="35"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="35"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="25"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="25"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="25"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="35">
 
 ### Outils : [Liste des outils, p. ex., Git, VS Code, Docker]
 - <img src="https://github.com/Axel230303/Image/blob/main/github.png" width="25"> Github
