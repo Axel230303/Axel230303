@@ -1,13 +1,12 @@
 ![Bannière](https://github.com/Axel230303/Image/blob/main/Axel%20Pignol.jpg)
 
 # Sommaire
-
-1. [Introduction](#pignol-axel---portfolio)
-2. [A propos de moi](#à-propos-de-moi)
-3. [Projets](#projets)
-4. [Compétences](#compétences)
-5. [Outils](#outils--liste-des-outils-p-ex-git-vs-code-docker)
-6. [Contact](#contact)
+_[Introduction](#pignol-axel---portfolio)_
+_[A propos de moi](#à-propos-de-moi)_
+_[Projets](#projets)_
+_[Compétences](#compétences)_
+_[Outils](#outils--liste-des-outils-p-ex-git-vs-code-docker)_
+_[Contact](#contact)_
 
 # Pignol Axel - Portfolio
 
@@ -27,7 +26,7 @@ avec une expérience en BUT Informatique .Tous mes contacts sont donc présents 
 <img src="https://github.com/Axel230303/Image/blob/main/Leverger.png" width="200">
 
 Développement d'une application en JAVA et JAVAFX du jeu du Verger avec différentes fonctionnalités tel qu'une fonctionnalité de dé qui renvoi une couleur d'un fruit qui devra être enlevé si un corbeau est tiré alors au bout de neufs pièces le joueur aura donc perdu.
-Cela a donc été implémenté lors de 
+Cela a donc été implémenté lors de mon deuxième semestre en BUT Informatique et été l'un des principaux projets de notre première année.
 
 ### Escape Game sur l'histoire de l'informatique (Unity/C#)
 <img src="https://github.com/Axel230303/Image/blob/main/Unity2.png" width="200">
