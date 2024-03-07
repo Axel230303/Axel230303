@@ -15,11 +15,11 @@ avec une expérience en BUT Informatique .Tous mes contacts sont donc présents 
 
 ## À propos de moi
 
-- 🌍 Basé à Limoges ainsi qu'à Saint-Vaury en France
-- 💼 Etudiant de deuxième année de BUT Informatique
-- 🎓 BUT Informatique et BAC mention assez bien spécialité NSI et Mathématiques
-- 🚀 Actuellement travaillant sur différents projets dans mes études tel que le développment d'un jeu vidéo en Unity/C# ou bien le développement d'un réseau privé pour une entreprise fictive
-- 🦾 You can find all my projects do on my studies on : _**https://github.com/Axel230303/Projects_IUT**_
+- 🌍 Based in Limoges and Saint-Vaury in France <br>
+- 💼 Second-year student in Computer Science at BUT (University Institute of Technology) <br>
+- 🎓 BUT in Computer Science and High School Diploma with honors, specializing in NSI (Computer Science and Digital Sciences) and Mathematics <br>
+- 🚀 Currently working on various projects in my studies such as developing a video game in Unity/C# or building a private network for a fictitious company. <br>
+- 🦾 You can find all my projects do on my studies on : _**https://github.com/Axel230303/Projects_IUT**_ <br>
 
 ## Projets
 
