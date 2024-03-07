@@ -1,5 +1,14 @@
 ![Bannière](https://github.com/Axel230303/Image/blob/main/Axel%20Pignol.jpg)
 
+# Sommaire
+
+1. [Introduction](#pignol-axel---portfolio))
+2. [A propos de moi](#section-1)
+3. [Projets](#section-2)
+4. [Compétences](#compétences)
+5. [Outils](#outils)
+6. [Contact](#contact)
+
 # Pignol Axel - Portfolio
 
 Bienvenue sur mon portfolio ! Je m'appelle Axel Pignol, passionné de développement de logiciels et particulièrement de développement d'applications (mobiles et autre) 
@@ -10,7 +19,7 @@ avec une expérience en BUT Informatique .Tous mes contacts sont donc présents 
 - 🌍 Basé à Limoges ainsi qu'à Saint-Vaury en France
 - 💼 Etudiant de deuxième année de BUT Informatique
 - 🎓 BUT Informatique et BAC mention assez bien spécialité NSI et Mathématiques
-- 🚀 Actuellement travaillant sur différents projets dans mes études tel que le développment d'un jeu vidéo en Unity/C# ou bien le développement d'un réseau privé
+- 🚀 Actuellement travaillant sur différents projets dans mes études tel que le développment d'un jeu vidéo en Unity/C# ou bien le développement d'un réseau privé pour une entreprise fictive
 
 ## Projets
 
@@ -24,7 +33,7 @@ Cela a donc été implémenté lors de
 <img src="https://github.com/Axel230303/Image/blob/main/Unity2.png" width="200">
 <img src="https://github.com/Axel230303/Image/blob/main/Unity.png" width="200">
 
-Mis en place d'un Escape Game avec l'utilisation de Unity et donc du langage C# sur l'histoire de l'informatique et les personnalités ayant aidées à l'évolution de l'informatique pour les Journées Portes Ouvertes de l'IUT du Limousin (Limoges) et donc en priorité pour notre cas des Journées Portes Ouvertes du département Informatique.
+Mis en place d'un Escape Game avec l'utilisation de Unity et donc du langage C# sur l'histoire de l'informatique et les personnalités ayant aidées à l'évolution de l'informatique pour les Journées Portes Ouvertes de l'IUT du Limousin (Limoges) et donc en priorité pour notre cas des Journées Portes Ouvertes du Département Informatique.
  
 
 ## Compétences
@@ -38,6 +47,7 @@ Mis en place d'un Escape Game avec l'utilisation de Unity et donc du langage C# 
 - Langages en prise de connaissances :
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width = "50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50">
+
 
 ### Outils : [Liste des outils, p. ex., Git, VS Code, Docker]
 
