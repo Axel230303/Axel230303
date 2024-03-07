@@ -1,12 +1,12 @@
 ![Bannière](https://github.com/Axel230303/Image/blob/main/Axel%20Pignol.jpg)
 
 # Sommaire
-_[Introduction](#pignol-axel---portfolio)_
-_[A propos de moi](#à-propos-de-moi)_
-_[Projets](#projets)_
-_[Compétences](#compétences)_
-_[Outils](#outils--liste-des-outils-p-ex-git-vs-code-docker)_
-_[Contact](#contact)_
+* _[Introduction](#pignol-axel---portfolio)_
+* _[A propos de moi](#à-propos-de-moi)_
+* _[Projets](#projets)_
+* _[Compétences](#compétences)_
+* _[Outils](#outils--liste-des-outils-p-ex-git-vs-code-docker)_
+* _[Contact](#contact)_
 
 # Pignol Axel - Portfolio
 
