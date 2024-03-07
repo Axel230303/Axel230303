@@ -37,9 +37,10 @@ Mis en place d'un Escape Game avec l'utilisation de Unity et donc du langage C# 
 
 - Langages en prise de connaissances :
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width = "50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width = "50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50">
 
 ### Outils : [Liste des outils, p. ex., Git, VS Code, Docker]
+
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" width="50"> <img src="https://github.com/Axel230303/Image/blob/main/intellij.jpg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50">
 
 ## Contact
