@@ -2,16 +2,15 @@
 
 # Sommaire
 * _[Introduction](#pignol-axel---portfolio)_
-* _[A propos de moi](#à-propos-de-moi)_
+* _[About me](#à-propos-de-moi)_
 * _[Projets](#projets)_
-* _[Compétences](#compétences)_
-* _[Outils](#outils--liste-des-outils-p-ex-git-vs-code-docker)_
+* _[Skills](#compétences)_
+* _[Tools](#outils--liste-des-outils-p-ex-git-vs-code-docker)_
 * _[Contact](#contact)_
 
 # Pignol Axel - Portfolio
 
-Bienvenue sur mon portfolio ! Je m'appelle Axel Pignol, passionné de développement de logiciels et particulièrement de développement d'applications (mobiles et autre) 
-avec une expérience en BUT Informatique .Tous mes contacts sont donc présents et libres d'accès.
+Welcome to my portfolio! My name is Axel Pignol, passionate about software development, especially in application development (both mobile and otherwise), with experience in Computer Science studies. All my contacts are therefore available and accessible.
 
 ## À propos de moi
 
