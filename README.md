@@ -2,11 +2,11 @@
 
 # Sommaire
 
-1. [Introduction](#pignol-axel---portfolio))
-2. [A propos de moi](#section-1)
-3. [Projets](#section-2)
+1. [Introduction](#pignol-axel---portfolio)
+2. [A propos de moi](#à-propos-de-moi)
+3. [Projets](#projets)
 4. [Compétences](#compétences)
-5. [Outils](#outils)
+5. [Outils](#outils--liste-des-outils-p-ex-git-vs-code-docker)
 6. [Contact](#contact)
 
 # Pignol Axel - Portfolio
