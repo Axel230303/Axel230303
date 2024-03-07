@@ -19,6 +19,7 @@ avec une expérience en BUT Informatique .Tous mes contacts sont donc présents 
 - 💼 Etudiant de deuxième année de BUT Informatique
 - 🎓 BUT Informatique et BAC mention assez bien spécialité NSI et Mathématiques
 - 🚀 Actuellement travaillant sur différents projets dans mes études tel que le développment d'un jeu vidéo en Unity/C# ou bien le développement d'un réseau privé pour une entreprise fictive
+- 🦾 You can find all my projects do on my studies on : **https://github.com/Axel230303/Projects_IUT**
 
 ## Projets
 
