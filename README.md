@@ -1,54 +1,52 @@
-![Bannière](https://github.com/Axel230303/Image/blob/main/Axel%20Pignol.jpg)
+![Banner](https://github.com/Axel230303/Image/blob/main/Axel%20Pignol.jpg)
 
-# Sommaire
-* _[Introduction](#pignol-axel---portfolio)_
-* _[About me](#à-propos-de-moi)_
-* _[Projets](#projets)_
-* _[Skills](#compétences)_
-* _[Tools](#outils--liste-des-outils-p-ex-git-vs-code-docker)_
+# Table of Contents
+* _[Introduction](#axel-pignol---portfolio)_
+* _[About Me](#about-me)_
+* _[Projects](#projects)_
+* _[Skills](#skills)_
+* _[Tools](#tools)_
 * _[Contact](#contact)_
 
-# Pignol Axel - Portfolio
+# Axel Pignol - Portfolio
 
-Welcome to my portfolio! My name is Axel Pignol, passionate about software development, especially in application development (both mobile and otherwise), with experience in Computer Science studies. All my contacts are therefore available and accessible.
+Welcome to my portfolio! My name is Axel Pignol, and I am passionate about software development, particularly application development (both mobile and desktop). With a solid background in Computer Science, I aim to showcase my projects and expertise. All my contact details are available and accessible here.
 
-## À propos de moi
+## About Me
 
-- 🌍 Based in Limoges and Saint-Vaury in France <br>
-- 💼 Second-year student in Computer Science at BUT (University Institute of Technology) <br>
-- 🎓 BUT in Computer Science and High School Diploma with honors, specializing in NSI (Computer Science and Digital Sciences) and Mathematics <br>
-- 🚀 Currently working on various projects in my studies such as developing a video game in Unity/C# or building a private network for a fictitious company. <br>
-- 🦾 You can find all my projects do on my studies on : _**https://github.com/Axel230303/Projects_IUT**_ <br>
+- 🌍 Based in Limoges and Saint-Vaury, France  
+- 💼 Second-year Computer Science student at the University Institute of Technology (BUT Informatique)  
+- 🎓 Holder of a BUT in Computer Science and a High School Diploma with honors, specializing in NSI (Computer Science and Digital Sciences) and Mathematics  
+- 🚀 Currently working on various academic projects, such as developing a video game in Unity/C# and creating a private network for a fictional company  
+- 🦾 Check out all my academic projects here: _**https://github.com/Axel230303/Projects_IUT**_  
 
-## Projets
+## Projects
 
-### Jeu du Verger en Java
+### Orchard Game in Java
 <img src="https://github.com/Axel230303/Image/blob/main/Leverger.png" width="200">
 
-Développement d'une application en JAVA et JAVAFX du jeu du Verger avec différentes fonctionnalités tel qu'une fonctionnalité de dé qui renvoi une couleur d'un fruit qui devra être enlevé si un corbeau est tiré alors au bout de neufs pièces le joueur aura donc perdu.
-Cela a donc été implémenté lors de mon deuxième semestre en BUT Informatique et été l'un des principaux projets de notre première année.
+Development of a JAVA and JAVAFX application for the Orchard game. The game includes features like a dice functionality that returns a fruit color to be removed. If a crow is rolled, the player loses after nine pieces.  
+This project was implemented during my second semester in the BUT Informatique program and was one of the main projects of my first year.
 
-### Escape Game sur l'histoire de l'informatique (Unity/C#)
+### Escape Game on the History of Computing (Unity/C#)
 <img src="https://github.com/Axel230303/Image/blob/main/Unity2.png" width="200">
 <img src="https://github.com/Axel230303/Image/blob/main/Unity.png" width="200">
 
-Mis en place d'un Escape Game avec l'utilisation de Unity et donc du langage C# sur l'histoire de l'informatique et les personnalités ayant aidées à l'évolution de l'informatique pour les Journées Portes Ouvertes de l'IUT du Limousin (Limoges) et donc en priorité pour notre cas des Journées Portes Ouvertes du Département Informatique.
- 
+Creation of an Escape Game using Unity and the C# language. The game highlights the history of computing and the personalities who contributed to its evolution. This project was showcased during the Open Days of the IUT du Limousin (Limoges), specifically for the Computer Science Department.
 
-## Compétences
+## Skills
 
-### Langages de programmation : 
+### Programming Languages:
 
-- Langages connus :
+- Languages I am proficient in:
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg " width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50">
 
-- Langages en prise de connaissances :
+- Languages I am currently learning:
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width = "50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50">
 
-
-### Outils : [Liste des outils, p. ex., Git, VS Code, Docker]
+## Tools:
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" width="50"> <img src="https://github.com/Axel230303/Image/blob/main/intellij.jpg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" width="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="50">
 
